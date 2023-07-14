@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783347677318",
+    "project_id": "hangover-auth",
+    "storage_bucket": "hangover-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783347677318:android:b532f0719bcb3cfe3cf907",
+        "android_client_info": {
+          "package_name": "com.example.hangover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783347677318-98ihqlnmn22tjsqi5uapjjej940b2pob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDTED87MmqB5i3gOMhpxoEG0R0cFT6JN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783347677318-98ihqlnmn22tjsqi5uapjjej940b2pob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
